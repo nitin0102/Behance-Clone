@@ -50,13 +50,13 @@ Follow these steps to set up and run the project on your local machine:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/creative-project-explorer.git
+    git clone https://github.com/nitin0102/Behance-Clone
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd creative-project-explorer
+    cd Behance-Clone
     ```
 
 3. **Install dependencies:**
